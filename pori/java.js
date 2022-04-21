@@ -361,8 +361,8 @@
 //     document.getElementById('time').innerHTML = t;
 // }
 
-function loaddoc(){
+function loaddoc() {
 
-    
+
 
 }

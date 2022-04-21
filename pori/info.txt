@@ -2,6 +2,8 @@
    git status
    git add .
    git commit -m ""
-   git commit -a -m ""
+   git commit -a -m "last"
    git log
+   git checkout --
    
+git reset head 
