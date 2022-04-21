@@ -7,4 +7,8 @@
    git checkout --
    git reset head 
    git log --oneline
+<<<<<<< HEAD
    git branch -a
+=======
+   git checkout master
+>>>>>>> master
