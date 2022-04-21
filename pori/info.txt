@@ -7,4 +7,4 @@
    git checkout --
    git reset head 
    git log --oneline
-   
+   git branch -a
