@@ -1,3 +1,6 @@
-    Lorem ipsum, dolor sit amet consectetur 
-    adipisicing elit. At officiis quis qu
-    ae ullam modi alias quo odio dolore dolor ad.
+   git init
+   git status
+   git add .
+   git commit -m ""
+   git commit -a -m ""
+   
