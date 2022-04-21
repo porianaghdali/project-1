@@ -5,5 +5,6 @@
    git commit -a -m "last"
    git log
    git checkout --
+   git reset head 
+   git log --oneline
    
-git reset head 
