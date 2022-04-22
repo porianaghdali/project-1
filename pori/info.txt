@@ -10,3 +10,5 @@
 
    git branch -a
    git checkout master
+   touch .gitignor
+   
